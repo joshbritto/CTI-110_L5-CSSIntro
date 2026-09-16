@@ -1,0 +1,55 @@
+/*Light Shades - F3F3F2*/
+/*Light Accent - 76869D*/
+/*Main Brand Color - 579FCC*/
+/*Dark Accent - 243763*/
+/*Dark Shades - 141F42*/
+body {
+    background-color: #F3F3F2;
+    color: #141F42;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+}
+
+h1 {
+    color: #579FCC;
+    font-size: 50pt;
+    background-color: #141F42;
+    height: 175px;
+    width: 325px;
+}
+
+.divide {
+    border: #579FCC;
+    border-width: 3px;
+    border-style: solid;
+    margin: 10px;
+}
+
+.subnote {
+    color: #243763;
+    font-size: 12pt;
+}
+
+.important {
+    background-color: #edff9f;
+}
+
+img {
+    margin: 25px;
+}
+
+#familyimage {
+    height: 300px;
+    width: 200px;
+    border: #579FCC;
+    border-width: 10px;
+    border-style: solid;
+}
+
+#friendsimage {
+    height: 300px;
+    width: 300px;
+    border: #579FCC;
+    border-width: 10px;
+    border-style: solid;
+}
